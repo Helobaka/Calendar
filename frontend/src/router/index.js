@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
-import Main  from '../views/Main.vue';
+import Main from '../views/Main.vue';
 import AboutAuthor from '../views/AboutAuthor.vue';
 import Vacancy from '../views/Vacancy.vue';
 
